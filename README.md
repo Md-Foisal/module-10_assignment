@@ -57,7 +57,7 @@ We use `console.log()` and `forEach()` to print each task under the correct sect
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/your-username/todo-status-filter.git
+   git clone https://github.com/Md-Foisal/module-10_assignment.git
    ```
 
 2. **Navigate into the folder:**
